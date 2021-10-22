@@ -9,9 +9,9 @@
 
 # How to initialize the project:
 
-1- clone the project
-3- open Vs Code or anouther Ide
-3- install:
+* clone the project
+* open Vs Code or anouther Ide
+* install:
   ``yarn or npm``
   
   * Run:
@@ -19,6 +19,6 @@
       
 # Advisible:
    ##to better performance: Clone the nlw-heat-backend project to.
-   --create .env file and put your keys
-   -- Initialize the sameway
+   -create .env file and put your keys
+   - Initialize the sameway
    
