@@ -11,6 +11,7 @@
 
 * clone the project
 * open Vs Code or anouther Ide
+* Put your github client_id at auth.tsc file (SignInUrl)
 * install:
   ``yarn or npm``
   
