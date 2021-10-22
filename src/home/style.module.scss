@@ -1,0 +1,30 @@
+.homeWrapper{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    align-items: center;
+    flex-direction: column;
+    
+    .Logo{
+        margin: 50px 0;
+        img{
+          height:70px;
+          width:100%;
+        }
+    }
+    
+    .homeContent{
+        font-size:25px;
+    }
+
+    .rocketSeatLogo{
+       position: relative;
+       top:200px;
+
+       img{
+        height:50px;
+        width:80%;
+      }
+    }
+}
