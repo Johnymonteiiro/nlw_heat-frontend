@@ -17,8 +17,8 @@
   * Run:
       ``yarn dev`` or ``npm start``
       
-** Advisible:
-   ##to better performance: 
+# Advisible:
+   ## to better performance: 
    * Clone the nlw-heat-backend project to.
    * create .env file and put your keys
    *  Initialize the sameway
